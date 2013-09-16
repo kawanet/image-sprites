@@ -1,0 +1,17 @@
+{
+  "name": "image-sprites",
+  "version": "0.0.1",
+  "description": "image sprites",
+  "main": "lib/sprites.js",
+  "dependencies": {
+    "css-parse": "~1.5.3",
+    "obop": "~0.0.9"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*"
+  },
+  "repository": "https://github.com/kawanet/image-sprites.git",
+  "author": "@kawanet",
+  "license": "MIT"
+}
